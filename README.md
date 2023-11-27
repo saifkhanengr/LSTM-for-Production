@@ -1,4 +1,4 @@
-# LSTM-for-Production
+# LSTM for Production
 In this repo, we will use the production data of [Equinor’s Volve data set](https://www.equinor.com/energy/volve-data-sharing), a publicly available subsurface data set, to predict oil, gas, and water production.
 
 In the `LSTM_for_Production_Univariate`, we will train three separate models for oil, gas, and water prediction.  
